@@ -1,0 +1,31 @@
+[
+    {
+    "idEtat":1,
+    "nbCas":424,
+    "nbCasCom":424,
+    "nbCasContact":424,
+    "nbCasImp":424,    
+    "Date":"date",
+    "idRegion":1,
+    "nomRegion":"Dakar",
+    "idcas":1,
+    "idDepartement":1,
+    "idCommune":1,
+    "nbCas":12
+    },
+    {
+    "idEtat":2,
+    "nbCas":424,
+    "nbCasCom":424,
+    "nbCasContact":424,
+    "nbCasImp":424,    
+    "Date":"date",
+    "idRegion":2,
+    "nomRegion":"Thies",
+    "idcas":2,
+    "idDepartement":2,
+    "idCommune":1,
+    "nbCas":12
+    }
+
+]
